@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1557296495 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\balrogs.cpp
+	<iostream>
+	"Balrogs.h"
+	"Demon.h"
+	"Creature.h"
+	<cstdlib>
+
+1557293280 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\balrogs.h
+	"Creature.h"
+	"Demon.h"
+
+1557359265 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\creature.h
+
+1557291142 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\demon.h
+	"Creature.h"
+
+1557356912 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\creature.cpp
+	<iostream>
+	"Creature.h"
+	<cstdlib>
+
+1557296688 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\cyberdemon.cpp
+	<iostream>
+	"Cyberdemon.h"
+	"Demon.h"
+	"Creature.h"
+	<cstdlib>
+
+1557296688 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\cyberdemon.h
+	"Creature.h"
+	"Demon.h"
+
+1557296495 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\demon.cpp
+	<iostream>
+	"Demon.h"
+	"Creature.h"
+	<cstdlib>
+
+1557296495 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\elf.cpp
+	<iostream>
+	"Elf.h"
+	"Creature.h"
+	<cstdlib>
+
+1557291197 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\elf.h
+	"Creature.h"
+
+1557297053 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\human.cpp
+	<iostream>
+	"Human.h"
+	"Creature.h"
+	<cstdlib>
+
+1557297053 c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\human.h
+	"Creature.h"
+
+1557359472 source:c:\users\joel\documents\school\spring 19\cs10b\assignment 14\inheritance\main.cpp
+	<iostream>
+	"Creature.h"
+	"Demon.h"
+	"Elf.h"
+	"Human.h"
+	"Balrogs.h"
+	"Cyberdemon.h"
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
